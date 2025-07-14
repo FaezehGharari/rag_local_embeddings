@@ -1,0 +1,1 @@
+This is a sample document for the Retrieval-Augmented Generation (RAG) demo project. You can add more .txt files to this folder to expand your knowledge base. 
